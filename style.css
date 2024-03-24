@@ -1,0 +1,19 @@
+div.question-box {
+    margin: 10px 0 20px 0;
+}
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    padding: 10px;
+    border: 1px solid;
+}
+
+.urgent {
+    color: red;
+    font-weight: bold;
+}
